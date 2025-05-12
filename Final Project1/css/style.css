@@ -1,0 +1,14 @@
+img{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 8%;
+}
+body{
+    background-image: url('../Backround.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+footer{
+    color: antiquewhite;
+    text-align: center;
+}
